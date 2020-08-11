@@ -4,7 +4,7 @@ CREATE TABLE projects (
   catagory TEXT,
   funding_goal INTEGER,
   start_date DATE,
-  end_date DATE 
+  end_date DATE
 );
 
 CREATE TABLE users (
